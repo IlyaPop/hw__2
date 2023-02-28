@@ -28,7 +28,7 @@ public class hw2 {
         System.out.println("А какой жанр музыки ты любишь?");
         input.nextLine();
         input.nextLine();
-        System.out.println("А какое твое любимое время года?");
+        System.out.println(name + " А какое твое любимое время года?");
         input.nextLine();
         System.out.println("Ты любишь петь?");
         input.nextLine();
